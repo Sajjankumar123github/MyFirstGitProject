@@ -2,7 +2,7 @@ package com.velocity.demo;
 
 import java.util.ArrayList;
 
-public class Deno {
+public class Demo {
 
 	public static void main(String[] args) {
 		ArrayList al = new ArrayList();

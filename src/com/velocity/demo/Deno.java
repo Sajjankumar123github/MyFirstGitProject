@@ -10,6 +10,7 @@ public class Deno {
 		al.add("sajjan");
 		al.add(null);
 		al.add(null);
+		al.add("Ajit pawar");
 		System.out.println(al);
 		
 	}
